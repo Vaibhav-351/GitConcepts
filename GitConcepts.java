@@ -5,11 +5,17 @@ public class GitConcepts
     {
         system.out.println("git Concepts");
         printDuck();
+        printPeacock();
     }
 
     public static void printDuck()
     {
         system.out.println("Duck");
+    }
+
+    public static void printPeacock()
+    {
+        system.out.println("Peacock");
     }
 
 }
