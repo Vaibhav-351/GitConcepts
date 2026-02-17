@@ -4,13 +4,7 @@ public class GitConcepts
     public static void main(STrings[] args)
     {
         system.out.println("git Concepts");
-        printDuck();
         printPeacock();
-    }
-
-    public static void printDuck()
-    {
-        system.out.println("Duck");
     }
 
     public static void printPeacock()
